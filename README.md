@@ -14,4 +14,3 @@ db.dbname=skeleton
 db.username=root
 db.password=
 ```
-
